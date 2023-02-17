@@ -4,7 +4,7 @@
  * main - Entry point
  *
  * Descriptioin: print a quote using write function
- * 	ssize_t write(int fd, const void *but, size_t count);
+ * ssize_t write(int fd, const void *but, size_t count);
  *
  * Return: This time we return an error 1.
  */
