@@ -5,8 +5,8 @@
  *
  * Description: A C program that prints with put function
  *
- * Return: Always - (Succes)
- * */ 
+ * Return: Always - (Success)
+ */
 
 int main(void)
 {
