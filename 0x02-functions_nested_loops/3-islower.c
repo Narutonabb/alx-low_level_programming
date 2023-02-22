@@ -9,7 +9,7 @@
  *         otherwise return 0 (success)
  */
 
-int _islower(int c) /*return 1 if 'c' is lower */
+int _islower(int c) /* return 1 if 'c' is lower */
 {
 	if (c >= 97 && c <= 122)
 		return (1);
