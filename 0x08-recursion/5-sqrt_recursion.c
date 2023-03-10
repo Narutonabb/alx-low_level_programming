@@ -41,5 +41,5 @@ int _sqrt_recursion(int n)
 	else if (n < 0)		/*sqrt(-n) == -1 (NA)*/
 		return (-1);
 	else
-		return (_sqrt_recursion_wrapper(n, 1, n));
+		return (_sqrt_recursion_wrapper(n, -1, n));
 }
